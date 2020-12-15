@@ -94,7 +94,6 @@ class Admin extends CI_Controller
 					'isbn' => $isbn,
 					'jumlah_buku' => $jumlah_buku,
 					'lokasi' => $lokasi,
-
 					'gambar' => $image['file_name'],
 					'tgl_input' => $tgl_input,
 					'status_buku' => $status
